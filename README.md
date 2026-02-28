@@ -61,8 +61,6 @@ face-attendance-smart-absensi/
 
 ## ⚙️ Installation & Usage
 
-### 1️⃣ Clone Repository
-
 ```bash
 git clone https://github.com/yehuda0231/face-attendance-smart-absensi.git
 cd face-attendance-smart-absensi
