@@ -37,3 +37,34 @@ Project ini dibuat sebagai implementasi Computer Vision dalam sistem presensi ot
 ---
 
 ## 📂 Project Structure
+```
+face-attendance-smart-absensi/
+│
+├── dataset/
+│ └── datawajah/
+│
+├── model/
+│ └── latihwajah/
+│
+├── haarcascade/
+│ ├── haarcascade_frontalface_default.xml
+│ └── haarcascade_eye.xml
+│
+├── Attendance.csv
+├── Face_Attendance.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+
+---
+
+## ⚙️ Installation & Usage
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/yehuda0231/face-attendance-smart-absensi.git
+cd face-attendance-smart-absensi
+pip install -r requirements.txt
+python Face_Attendance.py
