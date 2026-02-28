@@ -40,15 +40,14 @@ Project ini dibuat sebagai implementasi Computer Vision dalam sistem presensi ot
 ```
 face-attendance-smart-absensi/
 │
-├── dataset/
-│ └── datawajah/
+├── datawajah/
+│ └── isi file hasil foto
 │
-├── model/
-│ └── latihwajah/
+├── latihwajah/
+│ └── training.xml
 │
-├── haarcascade/
-│ ├── haarcascade_frontalface_default.xml
-│ └── haarcascade_eye.xml
+│── haarcascade_frontalface_default.xml
+│── haarcascade_eye.xml
 │
 ├── Attendance.csv
 ├── Face_Attendance.py
